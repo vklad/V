@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{606:function(n,o,w){"use strict";w.r(o),o.default={iev:"Києва",mow:"Москви",lon:"Лондона",par:"Парижа",nyc:"Нью-йорка",tlv:"Тель-Авіва"}}}]);
